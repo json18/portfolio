@@ -139,6 +139,7 @@ body {
   .work {
     position: relative;
     float: left;
+    height: 274px;
     width: 274px;
     margin: 20px 0 25px;
     overflow: auto;
@@ -174,6 +175,17 @@ body {
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
+  }
+
+
+  .image {
+    position: relative;
+    float: left;
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
   }
   
   /* contact page */
